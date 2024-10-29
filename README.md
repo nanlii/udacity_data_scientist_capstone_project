@@ -45,17 +45,9 @@ This is a real-life data science project the datasets are provided by Udacity pa
 ├── ETL Functions For Part2.ipynb #functions for running customer segmentation part
 ├── ETL Functions.ipynb #functions for running ETL
 ├── README.md
-├── data
-│   ├── Udacity_AZDIAS_052018.csv #demographics data for the general population of Germany
-│   ├── Udacity_CUSTOMERS_052018.csv #demographics data for customers of a mail-order company
-│   ├── Udacity_MAILOUT_052018_TEST.csv #demographics data for individuals who were targets of a marketing campaign
-│   ├── Udacity_MAILOUT_052018_TRAIN.csv #demographics data for individuals who were targets of a marketing campaign
-│   ├── ada_best.pickle.dat 
-│   ├── azdias_cleaned.csv
-│   ├── customers_cleaned.csv
-│   ├── gbc_best.pickle.dat
-│   ├── mailout_train_cleaned.csv
-│   └── xgb_best.pickle.dat
+├── ada_best.pickle.dat 
+├── gbc_best.pickle.dat
+├── xgb_best.pickle.dat
 └── terms_and_conditions
     ├── terms.md
     ├── terms.pdf
